@@ -1,0 +1,9 @@
+C:\Users\siedem\source\repos\Kostka\Kostka\bin\Debug\Kostka.exe.config
+C:\Users\siedem\source\repos\Kostka\Kostka\bin\Debug\Kostka.exe
+C:\Users\siedem\source\repos\Kostka\Kostka\bin\Debug\Kostka.pdb
+C:\Users\siedem\source\repos\Kostka\Kostka\obj\Debug\Kostka.csprojAssemblyReference.cache
+C:\Users\siedem\source\repos\Kostka\Kostka\obj\Debug\Kostka.Form1.resources
+C:\Users\siedem\source\repos\Kostka\Kostka\obj\Debug\Kostka.Properties.Resources.resources
+C:\Users\siedem\source\repos\Kostka\Kostka\obj\Debug\Kostka.csproj.GenerateResource.cache
+C:\Users\siedem\source\repos\Kostka\Kostka\obj\Debug\Kostka.exe
+C:\Users\siedem\source\repos\Kostka\Kostka\obj\Debug\Kostka.pdb
